@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakoorchandan&label=Profile%20views&color=0e75b6&style=flat" alt="thakoorchandan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thakoorchandan" alt="thakoorchandan" /></a> </p>
-
 - Connect with me [Thakoor Chandan](https://www.linkedin.com/in/thakoor-chandan-4a78b5106/)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**

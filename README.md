@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://thakoorchandan-portfolio.vercel.app/](https://thakoorchandan-portfolio.vercel.app/)
+- 👨‍💻 [Click here..!!](https://thakoorchandan-portfolio.vercel.app/) To visit my Projects
 
 - 💬 Ask me about **React JS, Express, MongoDB, Node js**
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thakoor Chandan</h1>
 <h2 align="center">A passionate MERN Stack Web Developer from India</h2>
-<h4 align="center">I build things for the web. I'm a full stack web developer specialized in MERN Stack. I'm actively looking for any new opportunities, in full-stack.</h4>
+<h3 align="center">I build things for the web. I'm a full stack web developer specialized in MERN Stack. I'm actively looking for any new opportunities, in full-stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakoorchandan&label=Profile%20views&color=0e75b6&style=flat" alt="thakoorchandan" /> </p>
 

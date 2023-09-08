@@ -16,17 +16,17 @@ fast-paced environment.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Hilton-Hotels](https://hotels-by-hilton-44jhnnl0y-thakoorchandan.vercel.app/)
+- 🔭 I’m currently working as Associate Software Enginner in [Tekion Corp](https://tekion.com/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 [Click here..!!](https://thakoorchandan-portfolio.vercel.app/) To visit my Projects
+- 👨‍💻 [Click here..!!](https://portfolio-k0aty7djx-thakoorchandan.vercel.app/) To visit my Projects
 
 - 💬 Ask me about **React JS, Express, MongoDB, Node js**
 
 - 📫 How to reach me **thakoorchandan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ksyzvyWheHgbZuw13_aTTGt6JaXALw9h/view](https://drive.google.com/file/d/1ksyzvyWheHgbZuw13_aTTGt6JaXALw9h/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HtPuC2ViSEF5DcGN4eIHvveNL3L30R2_/view)
 
 - ⚡ Fun fact **I know it's crazy, but I love to eat.**
 

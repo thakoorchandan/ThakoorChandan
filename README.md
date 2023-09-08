@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Thakoor Chandan</h1>
 <h2 align="center">A passionate MERN Stack Web Developer from India</h2>
-<h3 align="center">I build things for the web. I'm a full stack web developer specialized in MERN Stack. I'm actively looking for any new opportunities, in full-stack.</h3>
+<h3 align="center">Dynamic Web Developer with a strong background in team
+collaboration, code analysis, debugging, bug fixing, coupled
+with a flair for feature development, research and API
+integration. Committed to crafting efficient and user-centric
+web applications, backed by a solid skill set in React, Redux,
+JavaScript and CSS. Seeking a challenging role to leverage
+skills to contribute to the creation of dynamic and efficient
+web applications while continuously learning and growing in a
+fast-paced environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakoorchandan&label=Profile%20views&color=0e75b6&style=flat" alt="thakoorchandan" /> </p>
 

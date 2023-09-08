@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thakoor Chandan</h1>
 <h2 align="center">A passionate MERN Stack Web Developer from India</h2>
-<h3 align="center">Dynamic Web Developer with a strong background in team
-collaboration, code analysis, debugging, bug fixing, coupled
-with a flair for feature development, research and API
-integration. Committed to crafting efficient and user-centric
-web applications, backed by a solid skill set in React, Redux,
-JavaScript and CSS. Seeking a challenging role to leverage
-skills to contribute to the creation of dynamic and efficient
-web applications while continuously learning and growing in a
-fast-paced environment.</h3>
+<h3 align="center">Dynamic Web Developer with a strong background in team collaboration, code analysis, debugging, bug fixing, coupled with a flair for feature development, research and API integration. Committed to crafting efficient and user-centric web applications, backed by a solid skill set in React, Redux, JavaScript and CSS. Seeking a challenging role to leverage skills to contribute to the creation of dynamic and efficient web applications while continuously learning and growing in a fast-paced environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakoorchandan&label=Profile%20views&color=0e75b6&style=flat" alt="thakoorchandan" /> </p>
 
@@ -18,7 +10,7 @@ fast-paced environment.</h3>
 
 - 🔭 I’m currently working as Associate Software Enginner in [Tekion Corp](https://tekion.com/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m specialized in **MERN Stack**
 
 - 👨‍💻 [Click here..!!](https://portfolio-k0aty7djx-thakoorchandan.vercel.app/) To visit my Projects
 
@@ -26,7 +18,7 @@ fast-paced environment.</h3>
 
 - 📫 How to reach me **thakoorchandan@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HtPuC2ViSEF5DcGN4eIHvveNL3L30R2_/view)
+- 📄 [Click here..!!](https://drive.google.com/file/d/1HtPuC2ViSEF5DcGN4eIHvveNL3L30R2_/view) Know about my experiences 
 
 - ⚡ Fun fact **I know it's crazy, but I love to eat.**
 

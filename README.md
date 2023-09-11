@@ -2,12 +2,6 @@
 <h2 align="center">A passionate MERN Stack Web Developer from India</h2>
 <h3 align="center">Dynamic Web Developer with a strong background in team collaboration, code analysis, debugging, bug fixing, coupled with a flair for feature development, research and API integration. Committed to crafting efficient and user-centric web applications, backed by a solid skill set in React, Redux, JavaScript and CSS. Seeking a challenging role to leverage skills to contribute to the creation of dynamic and efficient web applications while continuously learning and growing in a fast-paced environment.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thakoorchandan&label=Profile%20views&color=0e75b6&style=flat" alt="thakoorchandan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thakoorchandan" alt="thakoorchandan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working as Associate Software Enginner in [Tekion Corp](https://tekion.com/)
 
 - 🌱 I’m specialized in **MERN Stack**

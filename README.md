@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thakoor Chandan</h1>
-<h2 align="center">A passionate MERN Stack Web Developer from India</h2>
+<h2 align="center">A passionate MERN Stack Web Developer</h2>
 <h3 align="center">Dynamic Web Developer with a strong background in team collaboration, code analysis, debugging, bug fixing, coupled with a flair for feature development, research and API integration. Committed to crafting efficient and user-centric web applications, backed by a solid skill set in React, Redux, JavaScript and CSS. Seeking a challenging role to leverage skills to contribute to the creation of dynamic and efficient web applications while continuously learning and growing in a fast-paced environment.</h3>
 
 - 🔭 I’m currently working as MERN Stack Developer in [Shanti Infosoft LLP Level 5](https://shantiinfosoft.com/)
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **thakoorchandan@gmail.com**
 
-- 📄 [Click here..!!](https://drive.google.com/file/d/1HtPuC2ViSEF5DcGN4eIHvveNL3L30R2_/view) Know about my experiences 
+- 📄 [Click here..!!](https://drive.google.com/file/d/1Dt7f0mIgbHM-2sgGVfJgwOCtzvl1ghin/view?usp=sharing) Know about my experiences 
 
 - ⚡ Fun fact **My favourite animal is a dog because they're so energetic and friendly.**
 

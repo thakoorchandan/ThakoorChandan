@@ -2,7 +2,9 @@
 <h2 align="center">A passionate MERN Stack Web Developer from India</h2>
 <h3 align="center">Dynamic Web Developer with a strong background in team collaboration, code analysis, debugging, bug fixing, coupled with a flair for feature development, research and API integration. Committed to crafting efficient and user-centric web applications, backed by a solid skill set in React, Redux, JavaScript and CSS. Seeking a challenging role to leverage skills to contribute to the creation of dynamic and efficient web applications while continuously learning and growing in a fast-paced environment.</h3>
 
-- 🔭 I’m currently working as Associate Software Enginner in [Tekion Corp](https://tekion.com/)
+- 🔭 I’m currently working as MERN Stack Developer in [Shanti Infosoft LLP Level 5](https://shantiinfosoft.com/)
+
+- 🪪 I am an Ex-Tekionite [Tekion Corp](https://tekion.com/)
 
 - 🌱 I’m specialized in **MERN Stack**
 
@@ -14,7 +16,7 @@
 
 - 📄 [Click here..!!](https://drive.google.com/file/d/1HtPuC2ViSEF5DcGN4eIHvveNL3L30R2_/view) Know about my experiences 
 
-- ⚡ Fun fact **I know it's crazy, but I love to eat.**
+- ⚡ Fun fact **My favourite animal is a dog because they're so energetic and friendly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

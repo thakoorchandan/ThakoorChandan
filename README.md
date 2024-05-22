@@ -8,7 +8,7 @@
 
 - 🌱 I’m specialized in **MERN Stack**
 
-- 👨‍💻 [Click here..!!](https://thakoorchandan-portfolio.vercel.app/) To visit my Projects
+- 👨‍💻 [Click here..!!](https://thakoor-portfolio.vercel.app/) To visit my Projects
 
 - 💬 Ask me about **React JS, Express, MongoDB, Node js**
 
